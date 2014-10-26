@@ -42,9 +42,9 @@ public class Server {
     }
 
     public void initAPI() {
-        get("/hello", (req, res) -> "Hello World");
-        get("/trends", (req, res) -> processTrends());
-        post("/trend", (req, res) -> processPutTrend(req.body()));
+        get("/api/hello", (req, res) -> "Hello World");
+        get("/api/trends", (req, res) -> processTrends());
+        post("/api/trend", (req, res) -> processPutTrend(req.body()));
     }
 
     public String processTrends() {
