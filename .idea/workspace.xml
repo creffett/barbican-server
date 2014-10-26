@@ -28,16 +28,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
               <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding />
+              <folding>
+                <marker date="1414300561000" expanded="true" signature="430:832" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Server.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Server.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5283019" vertical-offset="438" max-vertical-offset="1635">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1083" max-vertical-offset="1635">
+              <caret line="94" column="26" selection-start-line="87" selection-start-column="8" selection-end-line="95" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1675#1676#0" expanded="true" />
@@ -50,7 +52,7 @@
       <file leaf-file-name="TrendingEngine.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendingEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="600">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
               <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
               <folding>
                 <element signature="e#852#853#0" expanded="true" />
@@ -70,6 +72,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SSHLoginFailTrend.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/SSHLoginFailTrend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5283019" vertical-offset="123" max-vertical-offset="600">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Trend.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/Trend.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,36 +94,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/client/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rule.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/rule/Rule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="480">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="e#460#461#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TrendManager.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="630">
-              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="660">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1075#1082#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#1067#1074#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,11 +123,13 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/rule/Rule.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendingEngine.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/Trend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TestTrend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/client/Client.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/rule/RuleManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TestTrend.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/SSHLoginFailTrend.java" />
       </list>
     </option>
   </component>
@@ -648,12 +644,12 @@
       <created>1414261041483</created>
       <updated>1414261041483</updated>
       <workItem from="1414261044843" duration="3777000" />
-      <workItem from="1414270216732" duration="8054000" />
+      <workItem from="1414270216732" duration="10332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11831000" />
+    <option name="totallyTimeSpent" value="14109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -715,7 +711,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
+          <folding>
+            <marker date="1414300561000" expanded="true" signature="430:832" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -755,7 +753,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="570">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -771,13 +769,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="630">
-          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1075#1082#0" expanded="true" />
+            <marker date="1414300561000" expanded="true" signature="430:832" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -787,16 +792,20 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="480">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/client/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/rule/RuleManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.4025157" vertical-offset="153" max-vertical-offset="630">
+          <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#524#530#0" expanded="false" />
+            <element signature="e#1133#1140#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -808,9 +817,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="660">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#1067#1074#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1083" max-vertical-offset="1635">
+          <caret line="94" column="26" selection-start-line="87" selection-start-column="8" selection-end-line="95" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1737#1738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/TrendingEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="600">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
           <folding>
             <element signature="e#852#853#0" expanded="true" />
@@ -827,22 +861,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/trends/SSHLoginFailTrend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/gmu/srct/barbican/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5283019" vertical-offset="438" max-vertical-offset="1635">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.5283019" vertical-offset="123" max-vertical-offset="600">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-            <element signature="e#1737#1738#0" expanded="true" />
           </folding>
         </state>
       </provider>

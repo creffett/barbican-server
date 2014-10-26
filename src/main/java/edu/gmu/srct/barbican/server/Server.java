@@ -91,7 +91,7 @@ public class Server {
                 .setQuery(QueryBuilders.matchQuery("file", "/var/log/auth.log")) // Query
                 .setQuery(QueryBuilders.matchQuery("message", "failure"))
                 //.setPostFilter(FilterBuilders.rangeFilter("age").from(12).to(18))   // Filter
-                .setFrom(0).setSize(60).setExplain(true)
+                .setFrom(0).setSize(1000).setExplain(true)
                 .execute()
                 .actionGet();
         java.util.Iterator<SearchHit> hit_it = response.getHits().iterator();
