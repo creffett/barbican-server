@@ -25,6 +25,9 @@
         <module name="Barbican-Server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Barbican-Server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
